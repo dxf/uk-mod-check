@@ -1,4 +1,4 @@
-# A python library for checking the validitiy of UK bank account details
+# A python library for checking the validity of UK bank account details
 
 Example usage:
 
